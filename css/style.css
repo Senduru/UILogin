@@ -6,6 +6,7 @@
     }
 
     .form-container {
+         flex-wrap: wrap;
         width: 100%; /* Expand form to full width */
     }
 }
